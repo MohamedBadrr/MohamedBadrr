@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **badr59497@gmail.com**
 
-- 📄 Know about my experiences in my : <a href="https://drive.google.com/file/d/1-SIQ-fmz3d0DgrECPlyZjp6Oag-WdiG2/view?usp=drive_link](https://drive.google.com/file/d/1-SIQ-fmz3d0DgrECPlyZjp6Oag-WdiG2/view?usp=drive_link">CV</a>
+- 📄 Know about my experiences in my : <a href="https://drive.google.com/file/d/1-SIQ-fmz3d0DgrECPlyZjp6Oag-WdiG2/view?usp=drive_link]([https://drive.google.com/file/d/1-SIQ-fmz3d0DgrECPlyZjp6Oag-WdiG2/view](https://drive.google.com/file/d/1zldk4FcXAg_3xxgFoOf1I1C0egGDjoBT/view)?usp=drive_link">CV</a>
   
 - 🤓 Always learning new things
 <br/> <br/> <br/>
