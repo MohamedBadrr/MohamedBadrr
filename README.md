@@ -1,16 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm <span color=red>Mohamed Badr</span></h1>
 
-<h3 align="center"> I'm a Full-Stack Web Developer from Egypt.</h3>
+<h3 align="center"> I'm a Full-Stack Web Developer.</h3>
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=3500&pause=1000&color=4C92F7&center=true&vCenter=true&random=false&lines=Software-Engineer;Full-Stack-Web-Developer" alt="Typing SVG" /></a></p>
 
 <img align="right" alt="coding " width="300"  src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedbadrr&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedbadrr" /> </p>
-
-/*<p align="left"> <a href="https://twitter.com/mu7amed_badr" target="blank"><img src="https://img.shields.io/twitter/follow/mu7amed_badr?logo=twitter&style=for-the-badge" alt="mu7amed_badr" /></a> </p>*/
-
-
 
 - 🏢 I'm a Software Engineer and Full-stack web Developer .
   
