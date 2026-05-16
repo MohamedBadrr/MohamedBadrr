@@ -10,8 +10,6 @@
 
 - 🏢 I'm a Software Engineer and Full-stack web Developer .
   
-- 🏫 I'm a Fresh Graduated from Faculty of Computer Sciences and Artificial Intelligence at Helwan University.
-  
 - 💻 I'm constantly learning and exploring new technologies to improve my skills.
   
 - 👨‍💻 All of my projects are available at my : <a href="https://mohamedbadrr.github.io/Protfolio/">Portfolio </a>
